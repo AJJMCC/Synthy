@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4e4f523a3def49343a97f565b8d7f7c6
+timeCreated: 1502550339
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Super G-Type 2
+  fontNames:
+  - Super G-Type 2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

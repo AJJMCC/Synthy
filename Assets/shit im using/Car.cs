@@ -47,6 +47,11 @@ public class Car : MonoBehaviour
                 
             }
         }
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.LoadLevel("menu");
+        }
     }
 
   void moveleft()
